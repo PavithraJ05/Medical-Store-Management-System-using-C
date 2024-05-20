@@ -1,4 +1,4 @@
-#Medical Store Management System 
+# Medical Store Management System 
 
 The medical store management system is developed as to reduce the manual work of managing the medical store and it also helps in keeping track of all the 
 details regarding expense, sales and stocks.
